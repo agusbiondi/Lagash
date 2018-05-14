@@ -1,0 +1,11 @@
+C:\Users\Agus\Desktop\Lagash\Clases2\bin\Debug\netcoreapp2.0\Clases2.deps.json
+C:\Users\Agus\Desktop\Lagash\Clases2\bin\Debug\netcoreapp2.0\Clases2.runtimeconfig.json
+C:\Users\Agus\Desktop\Lagash\Clases2\bin\Debug\netcoreapp2.0\Clases2.runtimeconfig.dev.json
+C:\Users\Agus\Desktop\Lagash\Clases2\bin\Debug\netcoreapp2.0\Clases2.dll
+C:\Users\Agus\Desktop\Lagash\Clases2\bin\Debug\netcoreapp2.0\Clases2.pdb
+C:\Users\Agus\Desktop\Lagash\Clases2\obj\Debug\netcoreapp2.0\Clases2.csprojAssemblyReference.cache
+C:\Users\Agus\Desktop\Lagash\Clases2\obj\Debug\netcoreapp2.0\Clases2.csproj.CoreCompileInputs.cache
+C:\Users\Agus\Desktop\Lagash\Clases2\obj\Debug\netcoreapp2.0\Clases2.AssemblyInfoInputs.cache
+C:\Users\Agus\Desktop\Lagash\Clases2\obj\Debug\netcoreapp2.0\Clases2.AssemblyInfo.cs
+C:\Users\Agus\Desktop\Lagash\Clases2\obj\Debug\netcoreapp2.0\Clases2.dll
+C:\Users\Agus\Desktop\Lagash\Clases2\obj\Debug\netcoreapp2.0\Clases2.pdb

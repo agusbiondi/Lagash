@@ -1,0 +1,11 @@
+C:\Users\Agus\Desktop\Tarea 14-5\DivSinOpe\bin\Debug\netcoreapp2.0\DivSinOpe.deps.json
+C:\Users\Agus\Desktop\Tarea 14-5\DivSinOpe\bin\Debug\netcoreapp2.0\DivSinOpe.runtimeconfig.json
+C:\Users\Agus\Desktop\Tarea 14-5\DivSinOpe\bin\Debug\netcoreapp2.0\DivSinOpe.runtimeconfig.dev.json
+C:\Users\Agus\Desktop\Tarea 14-5\DivSinOpe\bin\Debug\netcoreapp2.0\DivSinOpe.dll
+C:\Users\Agus\Desktop\Tarea 14-5\DivSinOpe\bin\Debug\netcoreapp2.0\DivSinOpe.pdb
+C:\Users\Agus\Desktop\Tarea 14-5\DivSinOpe\obj\Debug\netcoreapp2.0\DivSinOpe.csprojAssemblyReference.cache
+C:\Users\Agus\Desktop\Tarea 14-5\DivSinOpe\obj\Debug\netcoreapp2.0\DivSinOpe.csproj.CoreCompileInputs.cache
+C:\Users\Agus\Desktop\Tarea 14-5\DivSinOpe\obj\Debug\netcoreapp2.0\DivSinOpe.AssemblyInfoInputs.cache
+C:\Users\Agus\Desktop\Tarea 14-5\DivSinOpe\obj\Debug\netcoreapp2.0\DivSinOpe.AssemblyInfo.cs
+C:\Users\Agus\Desktop\Tarea 14-5\DivSinOpe\obj\Debug\netcoreapp2.0\DivSinOpe.dll
+C:\Users\Agus\Desktop\Tarea 14-5\DivSinOpe\obj\Debug\netcoreapp2.0\DivSinOpe.pdb

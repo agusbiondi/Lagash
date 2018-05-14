@@ -1,0 +1,11 @@
+C:\Users\Agus\Desktop\Lagash\PromedioSinFW\obj\Debug\netcoreapp2.0\PromedioSinFW.csprojAssemblyReference.cache
+C:\Users\Agus\Desktop\Lagash\PromedioSinFW\obj\Debug\netcoreapp2.0\PromedioSinFW.csproj.CoreCompileInputs.cache
+C:\Users\Agus\Desktop\Lagash\PromedioSinFW\obj\Debug\netcoreapp2.0\PromedioSinFW.AssemblyInfoInputs.cache
+C:\Users\Agus\Desktop\Lagash\PromedioSinFW\obj\Debug\netcoreapp2.0\PromedioSinFW.AssemblyInfo.cs
+C:\Users\Agus\Desktop\Lagash\PromedioSinFW\bin\Debug\netcoreapp2.0\PromedioSinFW.deps.json
+C:\Users\Agus\Desktop\Lagash\PromedioSinFW\bin\Debug\netcoreapp2.0\PromedioSinFW.runtimeconfig.json
+C:\Users\Agus\Desktop\Lagash\PromedioSinFW\bin\Debug\netcoreapp2.0\PromedioSinFW.runtimeconfig.dev.json
+C:\Users\Agus\Desktop\Lagash\PromedioSinFW\bin\Debug\netcoreapp2.0\PromedioSinFW.dll
+C:\Users\Agus\Desktop\Lagash\PromedioSinFW\bin\Debug\netcoreapp2.0\PromedioSinFW.pdb
+C:\Users\Agus\Desktop\Lagash\PromedioSinFW\obj\Debug\netcoreapp2.0\PromedioSinFW.dll
+C:\Users\Agus\Desktop\Lagash\PromedioSinFW\obj\Debug\netcoreapp2.0\PromedioSinFW.pdb
